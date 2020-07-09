@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there! I'm Pablo 👋
+www.asenjoserrano.com
 
-<!--
-**AsenjoPablo/AsenjoPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ...who?
+ - I'm an English teacher and web/software developer (self-taught).
+ - I live in Spain. 🌞
+ - I love videogames, music and nature. I'm also getting fit, so any tips are welcome!
+ 
+## What technologies do you use, Pablo?
+ - I'll be honest... I 💖 learning new technologies. But these are the ones I use most:
+ 
+  - HTML / CSS 
+    - Bootstrap4
+    - SASS
+    
+  - JavaScript 
+    - JQuery
+    - React (learning now!)
+    - D3
+    
+  - Java 
+  
+  - AndroidStudio app Development (learning now!) 
+  
+  - SQL 
+    - Mostly MySQL
+    
+  - Other 
+    - XML
+    - DTD
+    - XPATH
+    - ...
+    
+## OK, that looks good, which IDEs do you use?
+  - I normally use VS Code for everything...
+  - ... but I also use Eclipse for Java
