@@ -20,7 +20,7 @@ www.asenjoserrano.com
     
   - Java 
   
-  - AndroidStudio app Development (learning now!) 
+  - AndroidStudio (Java + basic Kotlin)
   
   - SQL 
     - Mostly MySQL
