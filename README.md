@@ -15,8 +15,8 @@ www.asenjoserrano.com
     
   - JavaScript 
     - JQuery
-    - React (learning now!)
-    - D3
+    - ReactJS
+    - Node
     
   - Java 
   
