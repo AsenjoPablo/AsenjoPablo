@@ -34,3 +34,4 @@ www.asenjoserrano.com
 ## OK, that looks good, which IDEs do you use?
   - I normally use VS Code for everything...
   - ... but I also use Eclipse for Java
+  - When developing apps, I'll use Android Studio, XCode or Expo CLI.
