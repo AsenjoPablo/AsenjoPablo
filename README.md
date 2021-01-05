@@ -17,6 +17,7 @@ www.asenjoserrano.com
     - JQuery
     - ReactJS
     - Node
+    - Working on AngularJS
     
   - Java 
   
