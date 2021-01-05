@@ -4,7 +4,7 @@ www.asenjoserrano.com
 ## ...who?
  - I'm an English teacher and web/software developer (self-taught).
  - I live in Spain. 🌞
- - I love videogames, music and nature. I'm also getting fit, so any tips are welcome!
+ - I love videogames, music and nature.
  
 ## What technologies do you use, Pablo?
  - I'll be honest... I 💖 learning new technologies. But these are the ones I use most:
